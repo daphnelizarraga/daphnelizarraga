@@ -5,10 +5,14 @@ Hello! I'm a passionate Full Stack Developer with a keen focus on Java and Angul
 
 ## Contact me
 As I continue my journey in Full Stack development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
-<<<<<<< HEAD
+
+## Languages 
+- English
+- Espanish
+- Portuguese
+
 ## Hobbies
 - Dancing: ...
-=======
 
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
@@ -16,4 +20,3 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
->>>>>>> da957a848412466f9263caf5d9c1cc59b6ddd0fb
